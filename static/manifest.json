@@ -1,0 +1,22 @@
+{
+  "short_name": "Gus's Blog",
+  "name": "Gus's Personal Website",
+  "description": "Gus's Personal Website",
+  "icons": [
+    {
+      "src": "/images/web/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/web/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#fdfdfd",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0d0d0d"
+}

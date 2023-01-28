@@ -1,0 +1,7 @@
+/index.xml /article/index.xml 301
+/feed /article/index.xml 301
+/feed/ /article/index.xml 301
+/rss /article/index.xml 301
+/rss/ /article/index.xml 301
+/article/feed /article/index.xml 301
+/article/feed/ /article/index.xml 301
